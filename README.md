@@ -15,9 +15,9 @@ user dapat mengetahui kondisi suhu dan ph dengan mengirim pesan melalui telegram
 sistem juga akan mengirimkan pesan secara otomatis ke user melalui telegram ketika suhu <kurang></kurang> batas yang ditentukan <lebih> dan buzzer akan aktif dan berbunyi sebagai alaram di lapangan.
 
 cara penggunaan nya:
-#define ssid "isi dengan nama wifi"
-#define pass "isi dengan pw wifi"
-#define token "isi dengan token telegram mu"
-String id = "isi dengan id telegram mu"
+1. #define ssid "isi dengan nama wifi"
+2. #define pass "isi dengan pw wifi"
+3. #define token "isi dengan token telegram mu"
+4. String id = "isi dengan id telegram mu"
 
 jika bingung bisa hubungi email berikut ini: lioneole@gmail.com atau instagram: @abdulkatsir27
