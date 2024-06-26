@@ -20,4 +20,14 @@ cara penggunaan nya:
 3. #define token "isi dengan token telegram mu"
 4. String id = "isi dengan id telegram mu"
 
+gambaran alat: ![image](https://github.com/Lioneole09/LeleEco_Monitor-alat-pemantauan-suhu-dan-ph-air-kolam-ikan-lele/assets/136927567/95f44369-6211-4079-9fe1-1302d95c1d0a)
+
+![image](https://github.com/Lioneole09/LeleEco_Monitor-alat-pemantauan-suhu-dan-ph-air-kolam-ikan-lele/assets/136927567/8a4cb807-2bfe-46d5-896a-432401d726ba)
+
+bisa juga dibeli di toko ini: https://s.shopee.co.id/1fxgdTj3Yn
+
+
+
+
+
 jika bingung bisa hubungi email berikut ini: lioneole@gmail.com atau instagram: @abdulkatsir27
